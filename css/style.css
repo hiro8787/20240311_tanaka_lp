@@ -87,7 +87,6 @@ a {
 
 
 .title-img-exp {
-    font-size: 20px;
     text-align: left;
     left: 12%;
     top: 15%;
@@ -104,7 +103,7 @@ a {
 
 
 .title-exp1 {
-    font-size: 40px;
+    font-size: 4vw;
     color: rgb(110, 4, 73);
     line-height: 70px;
 }
